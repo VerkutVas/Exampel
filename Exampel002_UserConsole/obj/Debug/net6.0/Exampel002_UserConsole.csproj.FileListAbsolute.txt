@@ -1,0 +1,15 @@
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\bin\Debug\net6.0\Exampel002_UserConsole.exe
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\bin\Debug\net6.0\Exampel002_UserConsole.deps.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\bin\Debug\net6.0\Exampel002_UserConsole.runtimeconfig.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\bin\Debug\net6.0\Exampel002_UserConsole.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\bin\Debug\net6.0\Exampel002_UserConsole.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.csproj.AssemblyReference.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.AssemblyInfoInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.AssemblyInfo.cs
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.csproj.CoreCompileInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\refint\Exampel002_UserConsole.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\Exampel002_UserConsole.genruntimeconfig.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel002_UserConsole\obj\Debug\net6.0\ref\Exampel002_UserConsole.dll
