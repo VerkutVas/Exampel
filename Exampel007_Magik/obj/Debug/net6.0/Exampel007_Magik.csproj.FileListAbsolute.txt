@@ -1,0 +1,15 @@
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\bin\Debug\net6.0\Exampel007_Magik.exe
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\bin\Debug\net6.0\Exampel007_Magik.deps.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\bin\Debug\net6.0\Exampel007_Magik.runtimeconfig.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\bin\Debug\net6.0\Exampel007_Magik.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\bin\Debug\net6.0\Exampel007_Magik.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.csproj.AssemblyReference.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.AssemblyInfoInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.AssemblyInfo.cs
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.csproj.CoreCompileInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\refint\Exampel007_Magik.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\Exampel007_Magik.genruntimeconfig.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel007_Magik\obj\Debug\net6.0\ref\Exampel007_Magik.dll
