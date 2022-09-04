@@ -1,0 +1,15 @@
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\bin\Debug\net6.0\Exampel006_pase.exe
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\bin\Debug\net6.0\Exampel006_pase.deps.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\bin\Debug\net6.0\Exampel006_pase.runtimeconfig.json
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\bin\Debug\net6.0\Exampel006_pase.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\bin\Debug\net6.0\Exampel006_pase.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.csproj.AssemblyReference.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.AssemblyInfoInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.AssemblyInfo.cs
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.csproj.CoreCompileInputs.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\refint\Exampel006_pase.dll
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.pdb
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\Exampel006_pase.genruntimeconfig.cache
+C:\Users\nva16\Documents\Домашка\GeegC#\Exampel\Exampel006_pase\obj\Debug\net6.0\ref\Exampel006_pase.dll
